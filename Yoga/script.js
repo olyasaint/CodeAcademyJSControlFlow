@@ -8,7 +8,7 @@ case 'Ashtanga':
     console.log("You must be very athletic");
     break;    
 case 'Wall':
-    console.log("hmmm....I don't even know what that is. Can you tell me more?);
+    console.log("hmmm....I don't even know what that is. Can you tell me more?");
     break;
 case 'Vinyasa':
     console.log("That sounds relaxing");
